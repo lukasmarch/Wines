@@ -8,9 +8,9 @@
 ---
 
 Pliki :
-* Projekt_Ocena_jakości_wina.pdf
-* Notebook
-* Dataset
+* [Opis projektu](https://github.com/lukasmarch/Wines/blob/main/Projekt_Ocena_jako%C2%98ci_wina.pdf)
+* [Notebook](https://github.com/lukasmarch/Wines/tree/main/notebook)
+* [Dataset](https://github.com/lukasmarch/Wines/tree/main/dataset)
 
 
 
